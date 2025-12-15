@@ -1,8 +1,8 @@
-# 🚀 Portfolio Completo n8n & Intelligenza Artificiale (Flussi 1-15)
+# 🚀 Portfolio Completo n8n & Intelligenza Artificiale 
 
 **Benvenuti nel mio Portfolio di Automazione Avanzata.**
 
-Questa raccolta di 15 workflow n8n dimostra la mia esperienza nella creazione di soluzioni scalabili basate sull'integrazione di Intelligenza Artificiale (Google Gemini) e sistemi aziendali (CRM, BI, Marketing).
+Questa raccolta di 15 workflow n8n dimostra la mia esperienza nella creazione di soluzioni scalabili basate sull'integrazione di Intelligenza Artificiale (Google Gemini) e sistemi aziendali (CRM, Marketing).
 
 Sono alla ricerca di nuove opportunità professionali e sono **disponibile per assunzione**. Per visionare il mio profilo completo e approfondire le mie competenze:
 * **[Ilenia Unida - LinkedIn](https://www.linkedin.com/in/ilenia-unida)**
