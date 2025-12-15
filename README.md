@@ -19,7 +19,7 @@ Sono alla ricerca di nuove opportunità professionali e sono **disponibile per a
 
 ---
 
-## 📑 Indice Dettagliato dei Progetti (Flusso 1 - Flusso 15)
+## 📑 Indice Dettagliato dei Progetti 
 
 | Flusso | Descrizione Breve (Focus) | Repository GitHub | Video di Spiegazione |
 | :---: | :--- | :--- | :--- |
