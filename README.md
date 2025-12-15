@@ -1,4 +1,4 @@
-# 🚀 Portfolio Completo n8n & Intelligenza Artificiale 
+# 🚀 Portfolio  di automazioni N8N & Intelligenza Artificiale 
 
 **Benvenuti nel mio Portfolio di Automazione Avanzata.**
 
